@@ -1,0 +1,13 @@
+title: Which Witch Now's Musings
+description: Authentic writing about transformation, tech, and life
+baseurl: ""
+url: "https://whichwithcnow.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Show excerpts on homepage
+show_excerpts: true
